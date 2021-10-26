@@ -8,7 +8,7 @@ create a pull request and add your assigned reviewer and I to it. (see below)
 Move your gitKraken card to "ready to review" column
 Wait until your pull request has been approved
 Once your pull request is approved, merge your branch into main
-Move your gitKraken car to the "complete" column
+Move your gitKraken card to the "complete" column
 
 Adam reviews Allen's code
 Allen reviews Arman's code
