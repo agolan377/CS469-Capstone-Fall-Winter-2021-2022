@@ -12,9 +12,9 @@ Move your gitKraken card to the "complete" column
 
 Adam reviews Allen's code
 Allen reviews Arman's code
-Arman review Daniels's code
+Arman reviews Daniels's code
 Daniel reviews Jesse's code
-Jesse review's Shane's code
-Shane review's Tony's code
-Tony review's Adam's code
+Jesse reviews Shane's code
+Shane reviews Tony's code
+Tony reviews Adam's code
 
