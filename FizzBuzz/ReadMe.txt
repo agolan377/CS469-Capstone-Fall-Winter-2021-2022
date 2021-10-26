@@ -2,7 +2,8 @@ Install gitKraken, if you haven't already
 Clone the capstone repo, if you haven't already.
 Move your assigned gitKraken FizzBuzz card to "in progress" column
 Create a branch called: FizzBuzz_{your name}
-Implement FizzBuzz in Typescript and commit to your branch
+Commit/push your new branch
+Implement FizzBuzz in Typescript and commit/push to your branch
 create a pull request and add your assigned reviewer and I to it. (see below)
 Move your gitKraken card to "ready to review" column
 Wait until your pull request has been approved
