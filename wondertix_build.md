@@ -67,7 +67,7 @@ Go to the [API](https://dashboard.stripe.com/test/apikeys) section of your Strip
 * Generate a hash of the password [here](https://bcrypt-generator.com/).
 * After confirming the decrypted hash matched the password, add a user to the users table in the newly created WonderTix database in Postgres with:  
 
-	```INSERT INTO users (username, pass_hash, is_superuser) VALUES (‘<username-I-chose>’, ‘<password-hash-I-generated>’, true);```   <br><br>
+	```INSERT INTO users (username, pass_hash, is_superadmin) VALUES (‘<username-I-chose>’, ‘<password-hash-I-generated>’, true);```   <br><br>
 Note that the username and pass_hash need to be enclosed in single quotes.  <br><br>
 You should be good to go!  
 Now run:
